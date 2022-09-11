@@ -1,7 +1,7 @@
 # neoG-markOne- how Well Do You Know Me Quiz
 Created CLI app where made a quiz ,How well do you know me .As per the answer score will be increment .
  
- ##Technology Used:
+ ## Technology Used:
  * JavaScript
  * CLI
  
